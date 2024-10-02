@@ -1,0 +1,24 @@
+{
+  "favorites": {
+    "listTitle": "List of all favorites",
+    "listEmpty": "No favorites saved"
+  },
+  "products": {
+    "resultCountText": "products found"
+  },
+  "news": {
+    "newsOverview": "News Overview",
+    "subHeadline": "A simple news overview page with search and filter capabilities.",
+    "search": "Search",
+    "readArticle": "Read Article",
+    "allCategories": "All Categories",
+    "noResults": "No news found"
+  },
+  "locations": {
+    "searchInfo": "Find a location",
+    "searchPlaceholder": "Search",
+    "phone": "Phone",
+    "getDirection": "Get direction",
+    "noResults": "No contacts found."
+  }
+}

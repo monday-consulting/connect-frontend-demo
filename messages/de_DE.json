@@ -1,0 +1,24 @@
+{
+  "favorites": {
+    "listTitle": "Liste aller Favoriten",
+    "listEmpty": "Keine Favoriten gespeichert"
+  },
+  "products": {
+    "resultCountText": "Produkte gefunden"
+  },
+  "news": {
+    "newsOverview": "Nachrichtenübersicht",
+    "subHeadline": "Eine simple Nachrichtenübersichtsseite mit Suche und Filterfunktion.",
+    "search": "Suchen",
+    "readArticle": "Artikel lesen",
+    "allCategories": "Alle Kategorien",
+    "noResults": "Keine Nachrichten gefunden"
+  },
+  "locations": {
+    "searchInfo": "Finde einen Ort",
+    "searchPlaceholder": "Search",
+    "phone": "Telefon",
+    "getDirection": "Navigation",
+    "noResults": "Keine Kontakte gefunden."
+  }
+}
