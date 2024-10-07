@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": ">= 20.9.0"
+    "node": ">= 20.17.0"
   },
   "packageManager": "pnpm@9.11.0",
   "volta": {
@@ -11,10 +11,9 @@
     "pnpm": "9.11.0"
   },
   "scripts": {
-    "preinstall": "npx only-allow pnpm",
-    "dev:next": "next dev",
-    "build:next": "next build",
-    "start:next": "next start",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
     "check:ts": "tsc --noEmit --project tsconfig.json",
     "check:lint": "biome lint --write ./",
     "check:format": "biome format --write ./",
