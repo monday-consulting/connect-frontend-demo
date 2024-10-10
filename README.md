@@ -9,7 +9,7 @@ For Next.js you should copy the `.env.example` content to an new `.env` file and
 `pnpm i`
 
 ### Start dev environment
-`pnpm dev:next` - starts Next.js
+`pnpm dev` - starts Next.js
 
 ### Build
-`pnpm build:next` - builds Next.js
+`pnpm build` - builds Next.js
